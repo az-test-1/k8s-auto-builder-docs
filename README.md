@@ -129,7 +129,6 @@ Kubernetes 및 Azure 관련 학습 자료입니다.
 | 문서 | 설명 |
 |------|------|
 | [PDB-PodDisruptionBudget](./%5B참고%5D%20PDB-PodDisruptionBudget.md) | Pod Disruption Budget 참고 |
-| [Azure 리소스 스펙 변경 시 영향도 분석](./Azure%20리소스%20스펙%20변경%20시%20영향도%20분석.md) | Azure 리소스 변경 영향 분석 |
 
 ---
 
