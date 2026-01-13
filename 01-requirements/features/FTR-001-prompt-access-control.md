@@ -1,10 +1,11 @@
 # FTR-001: 프롬프트 접근 권한 제한 (Prompt Access Control)
 
 > **Status**: Draft
-> **Version**: 0.1.0
+> **Version**: 0.2.0
 > **Last Updated**: 2025-01-13
 > **Owner**: [담당자]
 > **Parent PRD**: [PRD-XXX](../prd/PRD-XXX.md)
+> **Prerequisites**: [FTR-002 사전점검 기능](./FTR-002-pre-validation.md) (선행 개발 필요)
 
 ---
 
