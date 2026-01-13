@@ -3,7 +3,7 @@
 > **Status**: Draft
 > **Version**: 1.0.0
 > **Last Updated**: 2026-01-13
-> **Parent**: [PRD-010-Core-Migration](../prd/PRD-010-Core-Migration.md)
+> **Parent**: [PRD-010-Core-Migration](../01-prd/PRD-010-Core-Migration.md)
 
 ---
 
