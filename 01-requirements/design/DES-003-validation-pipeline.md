@@ -1628,10 +1628,10 @@ class ValidationErrorHandler:
 
 ## 13. 관련 문서
 
-- [유즈케이스-Java8to17-실행흐름](./%5B분석%5D%20유즈케이스-Java8to17-실행흐름.md)
-- [PRD-020-AI-LLM](./prd/PRD-020-AI-LLM.md)
-- [ADR-M010-빌드-Job-실행-방식](./adr/M010-빌드-Job-실행-방식.md)
-- [ADR-M011-고가용성-전략](./adr/M011-고가용성-전략-HPA-PDB.md)
+- [ANA-005-java-migration-flow](../analysis/ANA-005-java-migration-flow.md)
+- [PRD-020-AI-LLM](../prd/PRD-020-AI-LLM.md)
+- [ADR-M010-build-jobs](../../02-decisions/migrations/ADR-M010-build-jobs.md)
+- [ADR-M011-high-availability](../../02-decisions/migrations/ADR-M011-high-availability.md)
 
 ---
 

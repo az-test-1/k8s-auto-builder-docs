@@ -295,6 +295,5 @@ BUILD_IMAGE_REGISTRY = "acraz01cloudtr.azurecr.io"
 
 ## 8. 관련 문서
 
-- [ACR_REGISTRY 관리 표준](./ACR_REGISTRY-관리-표준.md)
-- [CI/CD-Kustomize 역할분담](./CICD-Kustomize-역할분담.md)
-- [유즈케이스 Java8to17 실행흐름](./유즈케이스-Java8to17-실행흐름.md)
+- [ANA-002-cicd-kustomize-roles](./ANA-002-cicd-kustomize-roles.md)
+- [ANA-005-java-migration-flow](./ANA-005-java-migration-flow.md)

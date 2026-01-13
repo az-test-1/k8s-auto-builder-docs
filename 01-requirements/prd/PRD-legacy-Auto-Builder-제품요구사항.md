@@ -552,10 +552,9 @@ GET    /mcp/v1/tools/list                  # 사용 가능한 도구 목록
 
 ### 15.1 관련 문서
 
-- [[설계] azure-infra-resources-v2](./[설계]%20azure-infra-resources-v2.md)
-- [신규환경-배포-체크리스트-v2](./신규환경-배포-체크리스트-v2.md)
-- [유즈케이스-Java8to17-실행흐름](./유즈케이스-Java8to17-실행흐름.md)
-- [환경별-설정-현황](./환경별-설정-현황.md)
+- [DES-001-aks-architecture](../design/DES-001-aks-architecture.md)
+- [ANA-005-java-migration-flow](../analysis/ANA-005-java-migration-flow.md)
+- [ANA-007-env-config](../analysis/ANA-007-env-config.md)
 
 ### 15.2 변경 이력
 

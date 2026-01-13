@@ -3,7 +3,7 @@
 > **Status**: Draft
 > **Version**: 1.0.0
 > **Last Updated**: 2026-01-13
-> **Parent**: [PRD-020-AI-LLM](./PRD-020-AI-LLM.md)
+> **Parent**: [PRD-020-AI-LLM](../prd/PRD-020-AI-LLM.md)
 
 ---
 

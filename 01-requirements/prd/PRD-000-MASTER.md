@@ -209,7 +209,6 @@
 - [PRD-020: AI/LLM](./PRD-020-AI-LLM.md)
 - [PRD-030: Admin & Dashboard](./PRD-030-Admin-Dashboard.md)
 - [PRD-040: Platform & Infra](./PRD-040-Platform-Infra.md)
-- [용어집](../glossary.md)
 
 ---
 

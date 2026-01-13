@@ -263,6 +263,5 @@ az keyvault secret list --vault-name kv-cloudtr-prd --query "[].name" -o tsv
 
 ## 관련 문서
 
-- [[설계] azure-infra-resources-v2](./[설계]%20azure-infra-resources-v2.md)
-- [AKS Migration Checklist](./auto-builder-cms-dev/azure/AKS-MIGRATION-CHECKLIST.md)
-- [Kubernetes Deployment Guide](./auto-builder-cms-dev/kubernetes/DEPLOYMENT-GUIDE.md)
+- [DES-001-aks-architecture](../design/DES-001-aks-architecture.md)
+- [ANA-006-env-variables](./ANA-006-env-variables.md)

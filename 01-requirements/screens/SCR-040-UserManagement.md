@@ -3,7 +3,7 @@
 > **Status**: Draft
 > **Version**: 1.0.0
 > **Last Updated**: 2026-01-13
-> **Parent**: [PRD-030-Admin-Dashboard](./PRD-030-Admin-Dashboard.md)
+> **Parent**: [PRD-030-Admin-Dashboard](../prd/PRD-030-Admin-Dashboard.md)
 
 ---
 

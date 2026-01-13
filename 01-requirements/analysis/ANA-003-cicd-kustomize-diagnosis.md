@@ -158,7 +158,6 @@
 
 ## 10. 관련 문서
 
-- [Container Registry 관리 표준](./ACR_REGISTRY-관리-표준.md)
-- [CI/CD-Kustomize 역할분담](./CICD-Kustomize-역할분담.md)
-- [환경변수 설정 현황](./환경변수-설정현황.md)
-- [유즈케이스 Java8to17 실행흐름](./유즈케이스-Java8to17-실행흐름.md)
+- [ANA-002-cicd-kustomize-roles](./ANA-002-cicd-kustomize-roles.md)
+- [ANA-005-java-migration-flow](./ANA-005-java-migration-flow.md)
+- [ANA-006-env-variables](./ANA-006-env-variables.md)

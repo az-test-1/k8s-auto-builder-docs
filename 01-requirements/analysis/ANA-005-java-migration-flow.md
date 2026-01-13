@@ -414,7 +414,5 @@ Step 실행 중 에러 발생
 
 ## 12. 참고 문서
 
-- [ACR_REGISTRY 관리 표준](./ACR_REGISTRY-관리-표준.md)
-- [환경변수 설정 현황](./환경변수-설정현황.md)
-- [CI/CD-Kustomize 역할 분담](./CICD-Kustomize-역할분담.md)
-- [수정사항 리스트](./수정사항-리스트.md)
+- [ANA-002-cicd-kustomize-roles](./ANA-002-cicd-kustomize-roles.md)
+- [ANA-006-env-variables](./ANA-006-env-variables.md)
